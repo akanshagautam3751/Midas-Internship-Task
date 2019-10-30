@@ -13,10 +13,13 @@ The feature sets used are as follows:
 ## Results 
 
 Feature1 = YearMade, datasource
+
 ![Result Image 1](https://github.com/akanshagautam3751/Midas-Internship-Task/blob/master/A%20tabular%20Problem/Images_TabularProblem/1_bull.JPG)
 
-Feature1 = YearMade, datasource, state and fiBaseModel
-![Result Image 1](https://github.com/akanshagautam3751/Midas-Internship-Task/blob/master/A%20tabular%20Problem/Images_TabularProblem/2_bull.JPG)
+Feature2 = YearMade, datasource, state and fiBaseModel
+
+![Result Image 2](https://github.com/akanshagautam3751/Midas-Internship-Task/blob/master/A%20tabular%20Problem/Images_TabularProblem/2_bull.JPG)
 
 Feature3 = YearMade, datasource, state ,fiBaseModel, fiProductClassDesc and fiModelDesc
-![Result Image 1](https://github.com/akanshagautam3751/Midas-Internship-Task/blob/master/A%20tabular%20Problem/Images_TabularProblem/3_bull.JPG)
+
+![Result Image 3](https://github.com/akanshagautam3751/Midas-Internship-Task/blob/master/A%20tabular%20Problem/Images_TabularProblem/3_bull.JPG)
